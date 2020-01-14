@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1520568355 source:c:\users\ryan mitchell\desktop\drink machine\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1520562168 source:c:\users\karakuik\desktop\drink machine\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1521652743 source:c:\users\karakuik\desktop\school 2017\drink machine\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
